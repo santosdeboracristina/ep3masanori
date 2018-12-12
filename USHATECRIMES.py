@@ -9,7 +9,7 @@ PESQUISA DE CRIMES DE ÓDIO NOS EUA DE 2014 A 2016¶
 
 #ANO: 2014, 2015 E 2016
 
-#*----------------------------------------------------------------------*#
+#*------------------------------I N I C I O----------------------------------------*#
 #importando os dados
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -108,3 +108,4 @@ plt.ylabel("Tipos de Preconceitos que levou aos crimes")
 plt.grid(True)
 plt.show()
 
+#------------------------------------F I M--------------------------------------#
